@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejercicio1</string>
+    <string name="BottonSigiente">Sigiente</string>
+    <string name="tv1">primer Activiti</string>
+    <string name="Bottonanterior">volver</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ventana2">ventana2</string>
+</resources>
