@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="opcion">
+    <item>verde</item>
+    <item>picante</item>
+    <item>redonda</item>
+    <item>cuadrada</item>
+    <item>acidad</item>
+</string-array>
+
+</resources>
